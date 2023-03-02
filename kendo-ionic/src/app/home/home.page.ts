@@ -8,5 +8,13 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   constructor() {}
-
+  public listItems: Array<string> = [
+    "X-Small",
+    "Small",
+    "Medium",
+    "Large",
+    "X-Large",
+    "2X-Large",
+  ];
+  public value: Date = new Date(2000, 2, 10);
 }
