@@ -1,0 +1,7 @@
+{
+  "name": "kendo-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
